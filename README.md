@@ -1,5 +1,5 @@
 # 📇  Projeto Sistema Venda 📇 
-📚 🧠 💻 Este seguinte projeto é uma atividade prática da linguagem de programação PHP, do componente curricular programação web II do curso de desenvolvimento de sistemas que estpu cursando atualmente. 📚 🧠 💻
+📚 🧠 💻 Este seguinte projeto é uma atividade prática da linguagem de programação PHP, do componente curricular programação web II do curso de desenvolvimento de sistemas que estou cursando atualmente. 📚 🧠 💻
 
 A proposta da atividade era de desenvolver uma aplicação de uma página web para cadastrar dois produtos e realizar uma venda apresentando uma nota fiscal com os produtos da venda, o valor total da venda, e o valor de troco do cliente.
 
