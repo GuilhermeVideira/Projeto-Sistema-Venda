@@ -10,7 +10,6 @@ A proposta da atividade era de desenvolver uma aplicação de uma página web pa
 ## Imagem da página web:
  
  ![image](https://user-images.githubusercontent.com/123119430/227753306-6a0453e3-c6e1-4e13-8ae6-bae49b6972de.png)
-![image](https://user-images.githubusercontent.com/123119430/227753332-db0098ea-b248-4ce3-a601-5cf905676302.png)
 
 #
 
