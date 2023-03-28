@@ -6,7 +6,6 @@ A proposta da atividade era de desenvolver uma aplicação de uma página web pa
 🛒🛒🛒🛒🛒🛒
  
  #
- 
 ## Imagem da página web:
  
  ![image](https://user-images.githubusercontent.com/123119430/227753306-6a0453e3-c6e1-4e13-8ae6-bae49b6972de.png)
